@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Darwin Idle"
+		},
+		{
+			"offsets": [
+				83,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Darwin left"
+		},
+		{
+			"offsets": [
+				-35,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Darwin right"
+		},
+		{
+			"offsets": [
+				-14,
+				-67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Darwin down"
+		},
+		{
+			"offsets": [
+				-28,
+				74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Darwin up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-1
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Left-Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-30
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Down-miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				107
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Up-miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				16
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Right-miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/darwin-noremote",
+	"position": [
+		100,
+		480
+	],
+	"healthicon": "darwin",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		120,
+		75
+	],
+	"camera_position": [
+		160,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

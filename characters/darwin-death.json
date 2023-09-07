@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				30,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Darwin-die"
+		},
+		{
+			"offsets": [
+				-57,
+				-36
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Darwin-dead-loop"
+		},
+		{
+			"offsets": [
+				27,
+				72
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "Darwin-dead-confirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/darwin-noremote",
+	"position": [
+		0,
+		430
+	],
+	"healthicon": "darwin",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		120,
+		75
+	],
+	"camera_position": [
+		-50,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

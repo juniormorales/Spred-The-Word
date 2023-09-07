@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "anim",
+			"indices": [],
+			"name": "Finn Animation yez"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				1
+			],
+			"name": "Finn Animation yez"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FinnAnim",
+	"position": [
+		-20,
+		120
+	],
+	"healthicon": "finn",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-460,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.45
+}
